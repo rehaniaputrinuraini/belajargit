@@ -1,5 +1,5 @@
 //STRING (20)
-let judulFilm = "Tak Ingin Usai Disini";
+let judulFilm = "Tak Ingin Usai Disana";
 let namaHari = "Sabtu";
 let merekSepatu = "New Balance";
 let jenisTas = "Shoulder Bag";
